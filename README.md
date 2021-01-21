@@ -6,6 +6,13 @@
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/jaklyn-soler-6a298965/)
 
+### Notebook Layout
+
+- **PART ONE:** DPW Ops Queue, Recology Abandoned, Parking Enforcement, Abandoned Vehicles, BSM Queue, HSOC Queue, Recology Overflowing
+- **PART TWO:** Supervisor Queue, Duplicate Queue, MUNI Work Queue, PUC Sewer Ops, Meter Bike Queue
+- **PART THREE:** Channel Transit, Homeless Concerns, Postal Service, BSSR Queue
+- **PART FOUR:** Parking Enforcement Review, DPT SignShop Queu, Streetlights Queue, Water Queue
+- **CONCLUSION:** Asking relevant questions and analysis of findings. 
 
 ### Data Used
 
@@ -34,11 +41,11 @@ The calls that were in the most demand and not accounted for with forecasting wa
 ### Findings
 
 In this bar graph, the values reflect calls that were forecasted minus calls that actually happened. The negative bars are the calls that happened. You can see recology is the largest negative bar. It shows that there is a significant increase in the number of calls that not only broke even with the forecasted amount but went far past it.
-In the top left portion of the graph, the bars have not been affected by actual calls which means that due to the pandemic there were not as many people calling DPS operations or filing complaints about abandoned vehicles.
+In the top left portion of the graph, the bars have not been affected by actual calls which means that due to the pandemic there were not as many people calling DPW operations or filing complaints about abandoned vehicles.
 
 ### Recommendation
 
-In light of this situation, my recommendation for the SF government would be for them to reallocate their human resources. They have a surplus of people that would have been tending to abandoned vehicle requests and DPS operations requests, but those requests are no longer happening. Since there is an unexpectedly high amount of calls about recology, my recommendation would be that the employees previously in other roles, temporarily help with the trash. This would prevent the employees from being fired from their jobs and it would prevent the SF local government from having to hire new employees.
+In light of this situation, my recommendation for the SF government would be for them to reallocate their human resources. They have a surplus of people that would have been tending to abandoned vehicle requests and DPW operations requests, but those requests are no longer happening. Since there is an unexpectedly high amount of calls about recology, my recommendation would be that the employees previously in other roles, temporarily help with the trash. This would prevent the employees from being fired from their jobs and it would prevent the SF local government from having to hire new employees.
 
 ### Future Work
 
