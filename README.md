@@ -8,11 +8,14 @@
 
 ### Notebook Layout
 
-- **PART ONE:** DPW Ops Queue, Recology Abandoned, Parking Enforcement, Abandoned Vehicles, BSM Queue, HSOC Queue, Recology Overflowing
-- **PART TWO:** Supervisor Queue, Duplicate Queue, MUNI Work Queue, PUC Sewer Ops, Meter Bike Queue
-- **PART THREE:** Channel Transit, Homeless Concerns, Postal Service, BSSR Queue
-- **PART FOUR:** Parking Enforcement Review, DPT SignShop Queu, Streetlights Queue, Water Queue
-- **CONCLUSION:** Asking relevant questions and analysis of findings. 
+You will be able to find the following agency queue analysis in the following notebooks.
+
+- **PART ONE:** DPW Ops Queue, Recology Abandoned, Parking Enforcement
+- **PART TWO:** Abandoned Vehicles, BSM Queue, HSOC Queue, Recology Overflowing
+- **PART THREE:** Supervisor Queue, Duplicate Queue, MUNI Work Queue, PUC Sewer Ops, Meter Bike Queue
+- **PART FOUR:** Channel Transit, Homeless Concerns, Postal Service, BSSR Queue
+- **PART FIVE:** Parking Enforcement Review, DPT SignShop Queu, Streetlights Queue, Water Queue
+- **CONCLUSION:** Asking relevant questions and analysis of findings 
 
 ### Data Used
 
