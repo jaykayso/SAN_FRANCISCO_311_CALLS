@@ -35,7 +35,7 @@ After findind the most in-demand agencies with the highest number of calls, I st
 
 The calls that were in the most demand and not accounted for with forecasting was for the recology queue.
 
-![](NOTEBOOKS/data/call_difference.png)
+![](data/call_difference.png)
 
 
 ### Findings
