@@ -53,8 +53,18 @@ In the top left portion of the graph, the bars have not been affected by actual 
 
 ### Recommendation
 
-In light of this situation, my recommendation for the SF government would be for them to reallocate their human resources. They have a surplus of people that would have been tending to abandoned vehicle requests and DPW operations requests, but those requests are no longer happening. Since there is an unexpectedly high amount of calls about recology, my recommendation would be that the employees previously in other roles, temporarily help with the trash. This would prevent the employees from being fired from their jobs and it would prevent the SF local government from having to hire new employees.
+ (-) Freeze hiring for incorrect high forecasts.
+ (-) Coordinating what overextended v. underextended queues are most similar to help with remote training.
+ (-) Identify if the job is feasible for someone to transition into:
+ (-) Physical Capability
+ (-) Technicality
+ (-) Safety in a Pandemic
+ (-)Continue forecasting to understand human resource needs.
+ (-)Use internal metrics to determine if a smooth employee transition has occurred between queues. Then develop and replicate.  
+new employees.
 
 ### Future Work
 
-I used a range of 0 to 3 on the p, d, and q parameters for SARIMAX modeling. This range could be expanded to find better models. For the queues that have been around for less than 5 years, it may be possible to find a spot where they were part of another queue before being divided. Having this information might allow me to piecemail more of the call history together for unknown queues. 
+In the future I could dig deeper into the data in order to gain access to the new queues that lacked enough history for modeling: HSOC, Recology Overflowing, Duplicate Queue, Meter Bike Queue, BSSR Queue, Parking Enforcement, Parking Review, Signshop Queue, Water Queue.
+Change params on SARIMAX model.
+Understand the function of each agency on a deeper level to develop a more strategic course of action. 
