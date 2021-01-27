@@ -60,11 +60,12 @@ In the top left portion of the graph, the bars have not been affected by actual 
 - Technicality
 - Safety in a Pandemic
 - Continue forecasting to understand human resource needs.
-- Use internal metrics to determine if a smooth employee transition has occurred between queues. Then develop and replicate.  
-new employees.
+- Use internal metrics to determine if a smooth employee transition has occurred between queues. 
+Then develop and replicate the process for new employees.
 
 ### Future Work
 
-In the future I could dig deeper into the data in order to gain access to the new queues that lacked enough history for modeling: HSOC, Recology Overflowing, Duplicate Queue, Meter Bike Queue, BSSR Queue, Parking Enforcement, Parking Review, Signshop Queue, Water Queue.
-Change params on SARIMAX model.
-Understand the function of each agency on a deeper level to develop a more strategic course of action. 
+- Dig deeper into the data in order to gain access to the new queues that lacked enough history for modeling: HSOC, Recology Overflowing, Duplicate Queue, Meter Bike Queue, BSSR Queue, Parking Enforcement, Parking Review, Signshop Queue, Water Queue.
+- Change params on SARIMAX model.
+- Understand the function of each agency on a deeper level to develop a more strategic course of action. 
+- Address issues with stationarity in the DPW Ops model.
