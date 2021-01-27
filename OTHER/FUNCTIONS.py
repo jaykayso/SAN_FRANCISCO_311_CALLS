@@ -62,16 +62,6 @@ def dftest(df):
     for key, val in dftest[4].items():
         print("\t",key, ": ", val)
         
-def concat_calls(forecast_diff, difference_twenty, actual_diff):
-    ''' This function labels and concatenates the forecasted and actual calls to format for a barplot'''
-    forecast_diff = difference_twenty[['Date', 'forecast_calls', 'actual_calls']]
-    forecast_diff['actual_calls'] = 'Forecast'
-    forecast_diff.rename(columns = {'actual_calls' : 'type', 'forecast_calls':'calls'}, inplace = True)
-    actual_diff = difference_twenty[['Date', 'forecast_calls', 'actual_calls']]
-    actual_diff['forecast_calls'] = 'actual'
-    actual_diff.rename(columns={'forecast_calls':'type', 'actual_calls':'calls'}, inplace = True)
-    whole_df = pd.concat([actual_diff, forecast_diff])
-    return whole_df.head()
 
 def plot_bars(df, agency):    
     ''' This function creates a barplot comparing actual versus forecasted calls'''
