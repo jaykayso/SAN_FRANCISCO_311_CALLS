@@ -6,6 +6,11 @@
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/jaklyn-soler-6a298965/)
 
+### Strategic Approach
+
+The objective is to forecast the quantity of future calls by the specific agency or queue to determine if there is a change in human resources needed in advance for the top 20% of most common agencies requested during 2020 of the COVID-19 pandemic. 
+By sorting through over 3 million rows of data, I will identify what agencies are being underutilized due to less calls during the pandemic and which agencies are experiencing a higher number of calls.
+
 ### Notebook Layout
 
 You will be able to find the following agency queue analysis in the following notebooks.
@@ -19,7 +24,7 @@ You will be able to find the following agency queue analysis in the following no
 
 ### Data Used
 
-The [data](https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6) is available online from the SF local government.
+The [data](https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6) is available online from the SF local government. During this project I worked with over 3 million rows of data. 
 
 
 ### Building a Strategy
