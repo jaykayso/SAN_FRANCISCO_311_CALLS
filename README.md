@@ -53,14 +53,14 @@ In the top left portion of the graph, the bars have not been affected by actual 
 
 ### Recommendation
 
- (-) Freeze hiring for incorrect high forecasts.
- (-) Coordinating what overextended v. underextended queues are most similar to help with remote training.
- (-) Identify if the job is feasible for someone to transition into:
- (-) Physical Capability
- (-) Technicality
- (-) Safety in a Pandemic
- (-)Continue forecasting to understand human resource needs.
- (-)Use internal metrics to determine if a smooth employee transition has occurred between queues. Then develop and replicate.  
+- Freeze hiring for incorrect high forecasts.
+- Coordinating what overextended v. underextended queues are most similar to help with remote training.
+- Identify if the job is feasible for someone to transition into:
+- Physical Capability
+- Technicality
+- Safety in a Pandemic
+- Continue forecasting to understand human resource needs.
+- Use internal metrics to determine if a smooth employee transition has occurred between queues. Then develop and replicate.  
 new employees.
 
 ### Future Work
