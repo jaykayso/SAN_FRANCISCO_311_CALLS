@@ -41,15 +41,14 @@ After findind the most in-demand agencies with the highest number of calls, I st
 
 ### Most in Demand During a Pandemic?
 
-The calls that were in the most demand and not accounted for with forecasting was for the recology queue.
+Cumulatively, the calls that were in the most demand and not accounted for with forecasting was for the recology queue, but the postal queue and Sewer Operations saw a high relative increase as well.
 
 ![](data/call_difference.png)
 
 
-### Findings
+### Conclusion
+Some queues  experienced more calls than forecasted (Recology Abandoned, Sewer Ops, and Postal Queue) while some have seen much less (MUNI Queue and Abandoned Vehicles).
 
-In this bar graph, the values reflect calls that were forecasted minus calls that actually happened. The negative bars are the calls that happened. You can see recology is the largest negative bar. It shows that there is a significant increase in the number of calls that not only broke even with the forecasted amount but went far past it.
-In the top left portion of the graph, the bars have not been affected by actual calls which means that due to the pandemic there were not as many people calling DPW operations or filing complaints about abandoned vehicles.
 
 ### Recommendation
 
